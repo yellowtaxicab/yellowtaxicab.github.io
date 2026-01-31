@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
     background-image: 
-        radial-gradient(circle closest-side, #d0d0d0 4px, transparent 4px);
+        radial-gradient(circle closest-side, #d0d0d0 10px, transparent 10px);
     background-size: 10px 10px;
 }
